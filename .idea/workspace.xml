@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35994b81-f4dc-497f-81df-5d0e8c9e0d6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1699ecae-5620-4cf6-870c-c64f92101beb" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/src/main/webapp/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/MAVEN/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\MAVEN\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1uyBU5sizIkPGTYVY8RtBrkOo7O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35994b81-f4dc-497f-81df-5d0e8c9e0d6b" name="Default Changelist" comment="" />
+      <created>1625627960338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625627960338</updated>
+      <workItem from="1625627961579" duration="602000" />
+      <workItem from="1625628617078" duration="1406000" />
+      <workItem from="1625639681170" duration="8288000" />
+      <workItem from="1625648619906" duration="1650000" />
+      <workItem from="1625650314863" duration="210000" />
+      <workItem from="1625650711179" duration="255000" />
+    </task>
+    <task id="LOCAL-00001" summary="简单的maven项目拆分">
+      <created>1625649055121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625649055121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="简单的maven项目拆分">
+      <created>1625649811525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625649811525</updated>
+    </task>
+    <task id="LOCAL-00003" summary="简单的maven项目拆分">
+      <created>1625650382497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625650382497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="简单的maven项目拆分">
+      <created>1625650750217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625650750217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:W:/HaiRong/hr03/dao" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="简单的maven项目拆分" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单的maven项目拆分" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" width="814" height="729" key="#Intentions" timestamp="1625646399389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" width="814" height="729" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1625646399389" />
+    <state x="361" y="76" key="#Notifications" timestamp="1625649284664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1625649284664" />
+    <state x="361" y="76" key="#Project_Structure" timestamp="1625640788084">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1625640788084" />
+    <state x="761" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1625646966467">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="761" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1625646966467" />
+    <state x="327" y="7" key="CommitChangelistDialog2" timestamp="1625650748252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="327" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1625650748252" />
+    <state x="102" y="65" key="DiffContextDialog" timestamp="1625649391693">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="102" y="65" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1625649391693" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1625651119521">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1625651119521" />
+    <state x="577" y="330" key="Github.CreateGistDialog" timestamp="1625648980148">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="577" y="330" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1625648980148" />
+    <state x="632" y="308" key="Github.ShareDialog" timestamp="1625649739749">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="632" y="308" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1625649739749" />
+    <state x="641" y="119" width="503" height="596" key="Github.UntrackedFilesDialog" timestamp="1625648536576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="641" y="119" width="503" height="596" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1625648536576" />
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom" timestamp="1625646326274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1625646326274" />
+    <state width="1493" height="76" key="GridCell.Tab.0.center" timestamp="1625646326274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1625646326274" />
+    <state width="1493" height="76" key="GridCell.Tab.0.left" timestamp="1625646326274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1625646326274" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right" timestamp="1625646326274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1625646326274" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1625650356374">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625650356374" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1625650757875">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1625650757875" />
+    <state x="178" y="112" key="new project wizard" timestamp="1625629652124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1625629652124" />
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1625629759995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1625629759995" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1625644016639">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1625644016639" />
+    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1625648914448">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1625648914448" />
+  </component>
+</project>
